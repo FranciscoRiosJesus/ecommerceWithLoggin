@@ -1,0 +1,37 @@
+/* first */
+body {
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #FFFFFF, rgb(243, 242, 240));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #FFFFFF, rgb(243, 241, 239)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* nav */
+.navbar-dark {
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* loggin */
+.margin-top-center {
+    margin-top: 20vh;
+}
+
+
+/* card */
+
+.card-title {
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card-link {
+    margin-left: 90%;
+    text-decoration: underline #1a1a1a;
+}
